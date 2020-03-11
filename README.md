@@ -9,3 +9,5 @@ Added Title.
 Changed HTML elements to be that of HTML semantic elements.
 
 Fixed link for 'Search-Engine-Optimization' located in the top right of the header.
+
+Added comments to HTML.
